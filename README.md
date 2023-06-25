@@ -12,7 +12,7 @@ Your first task is to visualize an earthquake dataset. Complete the following st
 
     Using Leaflet, create a map that plots all the earthquakes from your dataset based on their longitude and latitude.
 
-        Your data markers should reflect the magnitude of the earthquake by their size and the depth of the earthquake by color. Earthquakes with higher magnitudes           should appear larger, and earthquakes with greater depth should appear darker in color.
+   Your data markers should reflect the magnitude of the earthquake by their size and the depth of the earthquake by color. Earthquakes with higher magnitudes           should appear larger, and earthquakes with greater depth should appear darker in color.
 
 Hint: The depth of the earth can be found as the third coordinate for each earthquake.
 
