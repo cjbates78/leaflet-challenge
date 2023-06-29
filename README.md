@@ -22,4 +22,4 @@ Your first task is to visualize an earthquake dataset. Complete the following st
 
    Your visualization should look something like the preceding map.
 
-   Part of Legend code from https://codepen.io/haakseth/pen/KQbjdO
+   Legend code taken from https://codepen.io/haakseth/pen/KQbjdO
